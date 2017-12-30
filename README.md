@@ -33,7 +33,4 @@ end
    Or in order to get the result faster, just run the script findClustersFromRD.m directly.
    
 ##    Result
-![image](https://github.com/DemingWang/optics-cluster/blob/master/julei1.png)
-
-
-![image](https://github.com/DemingWang/optics-cluster/blob/master/julei2.png)
+![image](https://github.com/DemingWang/optics-cluster/blob/master/julei1.png) ![image](https://github.com/DemingWang/optics-cluster/blob/master/julei2.png)
